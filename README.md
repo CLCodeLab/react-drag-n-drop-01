@@ -192,7 +192,7 @@ const canDropHere = () => {
 }
 ```
 
-### collect
+#### collect
 The **collect** prop uses a method which *collects* data by **monitoring** the dragged component, in this example, storing it to the:
 
 - **isOver** property which returns a **Boolean** value when the draggable component passes over **this** component, and
